@@ -1,4 +1,8 @@
-This is a Old Yukki Music source code, Check out the new version here: https://github.com/NotReallyShikhar/YukkiMusicBot
+https://telegra.ph/file/3cb659ac5272700907e50.jpg
+
+
+
+is a Old Yukki Music source code, Check out the new version here: https://github.com/NotReallyShikhar/YukkiMusicBot
 
 Credit for [@TeamYukki](https://t.me/OfficialYukki) as the owner & creator of this Repository.
 
